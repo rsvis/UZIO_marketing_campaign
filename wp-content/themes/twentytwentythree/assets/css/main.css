@@ -1,0 +1,281 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  clear: both;
+  color: #102746;
+  font-weight: 700 !important;
+  margin-top: 24px;
+  margin-bottom: 15px;
+  font-family: Montserrat;
+}
+.header__logo {
+  height: 37px;
+}
+.awarded-medal img {
+  width: 38px;
+}
+.awarded-medal {
+  border-left: 1px solid #e4e4e4;
+}
+.awarded-medal span {
+  font-weight: 700;
+}
+.py-md-40 {
+  padding-top: 40px !important;
+  padding-bottom: 40px !important;
+}
+.pl-20 {
+  padding-left: 20px !important;
+}
+.pr-20 {
+  padding-right: 20px !important;
+}
+.awarded-medal .text {
+  line-height: 20px;
+}
+.pl-10 {
+  padding-left: 10px !important;
+}
+.fs-md-54 {
+  font-size: 54px !important;
+}
+.custom-color {
+  color: #00b59d !important;
+}
+.fs-md-20 {
+  font-size: 20px !important;
+}
+.fs-md-32 {
+  font-size: 32px !important;
+}
+.fw-600 {
+  font-weight: 600 !important;
+}
+.mb-14 {
+  margin-bottom: 14px !important;
+}
+.fs-md-20 {
+  font-size: 20px !important;
+  font-weight: 600;
+}
+.landing__suite h2 {
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 1.21;
+  color: #102746;
+  margin-bottom: 0;
+}
+.fs-md-30 {
+  font-size: 30px !important;
+}
+.mb-md-40 {
+  margin-bottom: 40px !important;
+}
+.fs-36 {
+  font-size: 36px !important;
+}
+.fs-22 {
+  font-size: 22px !important;
+}
+.btn-orange {
+  color: #fff;
+  background-color: #fd6139;
+  border-color: #fd6139;
+}
+.fs-md-40 {
+  font-size: 40px !important;
+}
+.bg-color-2 {
+  background: #e4f5ff;
+}
+.bg-color-3 {
+  background: #fee7ed;
+}
+.bg-color-1 {
+  background: #fff8e4;
+}
+.bg-color-4 {
+  background: #f3f1fb;
+}
+.py-md-44 {
+  padding-top: 44px !important;
+  padding-bottom: 44px !important;
+}
+.px-md-24 {
+  padding-right: 24px !important;
+  padding-left: 24px !important;
+}
+.rounded-10 {
+  border-radius: 10px;
+}
+.font-weight-bold {
+  font-weight: 700 !important;
+}
+.fs-24 {
+  font-size: 24px !important;
+}
+.check__list,
+.flag__list {
+  padding: 0;
+  margin: 0;
+}
+.check__list li,
+.flag__list li {
+  display: inline-block;
+  min-width: 140px;
+}
+.check__list li {
+  background-image: url(../images/check.svg);
+  background-position: left top 6px;
+  background-size: 18px;
+  font-size: 16px;
+  color: #102746;
+}
+.py-md-32 {
+  padding-top: 32px !important;
+  padding-bottom: 32px !important;
+}
+.px-md-24 {
+  padding-right: 24px !important;
+  padding-left: 24px !important;
+}
+
+.py-md-44 {
+  padding-top: 44px !important;
+  padding-bottom: 44px !important;
+}
+.py-md-34 {
+  padding-top: 34px !important;
+  padding-bottom: 34px !important;
+}
+.mt-16 {
+  margin-top: 16px !important;
+}
+.mt-30 {
+  margin-top: 30px !important;
+}
+.py-md-60 {
+  padding-top: 60px !important;
+  padding-bottom: 60px !important;
+}
+.check__list li,
+.flag__list li {
+  margin: 0 0 10px 0;
+  padding: 0 0 0 30px;
+  list-style: none;
+  background-repeat: no-repeat;
+  font-weight: 400;
+}
+.mb-20 {
+  margin-bottom: 20px !important;
+}
+.mb-md-40 {
+  margin-bottom: 40px !important;
+}
+.py-md-70 {
+  padding-top: 70px !important;
+  padding-bottom: 70px !important;
+}
+.ml-14 {
+  margin-left: 14px !important;
+}
+
+.mt-40 {
+  margin-top: 40px !important;
+}
+.py-20 {
+  padding-top: 20px !important;
+  padding-bottom: 20px !important;
+}
+.fs-md-40 {
+  font-size: 40px !important;
+}
+.py-md-50 {
+  padding-top: 50px !important;
+  padding-bottom: 50px !important;
+}
+button,
+input,
+optgroup,
+select,
+textarea {
+  max-width: 100%;
+}
+.wpcf7 {
+  padding: 40px 0;
+}
+.btn {
+  text-decoration: none;
+}
+html{
+    margin:0 !important;
+}
+.wpcf7-submit {
+  background: #00bfa5;
+  border-color: #00bfa5;
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 14px;
+  border: 0;
+  border-radius: 5px;
+  padding: 0.875rem 0.95rem;
+  margin-top: 30px;
+  font-weight: 700 !important;
+}
+@media (max-width: 992px) {
+  .fs-36 {
+    font-size: 22px !important;
+  }
+  /* .fs-22 {
+        font-size: 10px!important;
+    } */
+  .fs-md-40 {
+    font-size: 36px !important;
+  }
+  .box-square > div {
+    min-height: 251px;
+    margin-bottom: 20px !important;
+  }
+}
+@media (max-width: 760px) {
+  .landing__suite .happyclient > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+  .fs-md-54 {
+    font-size: 41px !important;
+  }
+  .landing__suite h2 {
+    font-size: 32px !important;
+  }
+  .fs-md-40 {
+    font-size: 30px !important;
+  }
+  .footer-custom h3 {
+    font-size: 30px !important;
+  }
+  .fs-md-30 {
+    font-size: 24px !important;
+  }
+  .fs-md-32 {
+    font-size: 26px !important;
+  }
+}
+@media (max-width: 560px) {
+  .two-images {
+    flex-direction: column;
+  }
+  .two-images .awarded-medal {
+    border: none;
+    padding: 0 !important;
+    margin-top: 20px;
+  }
+}
